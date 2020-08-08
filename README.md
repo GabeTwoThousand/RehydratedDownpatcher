@@ -14,7 +14,7 @@ Instructions:
 6 - Click the second button labeled "Downpatch"
 7 - Navigate to your desired game installation folder. You can create new folders in this dialog if you need to (Be sure to remember where you installed this)
 8 - Carefully read the notice message that appears before hitting "Okay" 
-9(Conditional) - Enter your steamguard authentication code from your app or email into the cmd window that appears when prompted then hit enter (if you do not use 2FA you can disregard this step)
+9 (Conditional) - Enter your steamguard authentication code from your app or email into the cmd window that appears when prompted then hit enter (if you do not use 2FA you can disregard this step)
 10 - Wait very patiently for the game to download and copy to your selected install location. This will take a long time and will often seem to freeze, but wait it out, if it fails, it will time out and close, not hang. 
 11 - When this is completed, it will pop up with a prompt saying "Installation Completed". You may now close the tool and Navigate to the installation folder you selected and it will be installed there.
 
