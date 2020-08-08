@@ -8,7 +8,7 @@ The video also shows you how to preserve/transfer your steam controller mappings
 (Prerequisite - You must own the game on steam and be using an OS that my tool supports. More OS support coming in later releases)  
 * 1 - Download the latest release for your OS (Currently only working for Windows x64) (The file named RehydratedDownpatcher-<version>.zip  
 * 2 - Extract the zip folder anywhere  
-* 3 - Start the program (it will ask for admin privileges so it can install to restricted folders such as "C:/Program Files/..."  
+* 3 - Start the program (it will ask for admin privileges so it can install to restricted folders such as "C:/Program Files/...")  
 * 4 - Press the first button to install the required DOTNet SDK and complete installation.  
 * 5 - Return to the program and select your desired game revision and type your steam username/id (not Steam display name) and steam password  
 * 6 - Click the second button labeled "Downpatch"  
