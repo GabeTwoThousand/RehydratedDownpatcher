@@ -29,6 +29,17 @@ If you want to compile the script for yourself I've also left instructions below
 * 4 - Place the downloaded file "dotnet-sdk-3.1.302-win-x64.exe" in the following directory inside the extracted project folder  [InsertPathToExtractedFolder]\RehydratedDownpatcher\Assets\ThirdParty\  
 * 5 - Right click RehydratedDownloader.ahk and select "Compile Script" (if this option is not there, then you didn't install AutoHotKey or unchecked the box to allow windows shell shortcuts/options)  
   
+### Reference Info for the manual use of DepotDownloader with Rehydrated
+Steam AppID: 969990  
+Steam Depot: 969991  
+Revision: 603296 (06-23-20) ManifestID: 1053335632047073742  
+Revision: 603442 (06-26-20) ManifestID: 4499864563879474996  
+Revision: 603899 (07-17-20) ManifestID: 8029231884565495947  
+Revision: 604909 (08-07-20) ManifestID: 5129037688278363502  
+
+DepoDownloader download command format:  
+`dotnet DepotDownloader.dll -app 969990 -depot 969991 -manifest ################### -username USER -password PASSWORD`  
+
 ### Credit for incorporated assets:  
 DepotDownloader 2.3.6 by SteamRE - https://github.com/SteamRE/DepotDownloader/  
 DOTNet SDK 3.1.303 by Microsoft - https://dotnet.microsoft.com/download/dotnet-core/3.1
