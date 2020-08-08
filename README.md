@@ -37,7 +37,7 @@ Revision: 603442 (06-26-20) ManifestID: 4499864563879474996
 Revision: 603899 (07-17-20) ManifestID: 8029231884565495947  
 Revision: 604909 (08-07-20) ManifestID: 5129037688278363502  
 
-DepoDownloader download command format:  
+DepotDownloader download command format:  
 `dotnet DepotDownloader.dll -app 969990 -depot 969991 -manifest ################### -username USER -password PASSWORD`  
 
 ### Credit for incorporated assets:  
