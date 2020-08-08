@@ -4,7 +4,7 @@ A simple tool to make downpatching BFBB Rehydrated easy for speedrunners who nee
 Tutorial video - https://youtu.be/ta_u8uisCjM  
 The video also shows you how to preserve/transfer your steam controller mappings once you've downpatched.  
   
-## Instructions  
+## Installation Instructions:  
 (Prerequisite - You must own the game on steam and be using an OS that my tool supports. More OS support coming in later releases)  
 * 1 - Download the latest release for your OS (Currently only working for Windows x64) (The file named RehydratedDownpatcher-<version>.zip  
 * 2 - Extract the zip folder anywhere  
