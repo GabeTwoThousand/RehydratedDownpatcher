@@ -22,7 +22,7 @@ Note: To preserve steam controller mappings and steam FPS display, you need to a
   
   
   
-## Compiling instructions:  
+## Compiling Instructions:  
 If you want to compile the script for yourself I've also left instructions below. Note that although I can zip the DOTNet installer in the release file, it's too large to be an individual file in the repo itself so you'll have to download it yourself if you want to compile youself.  
 
 * 1 - Download and install AutoHotKey - https://www.autohotkey.com/  
