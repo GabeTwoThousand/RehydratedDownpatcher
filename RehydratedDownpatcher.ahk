@@ -120,7 +120,7 @@ StartDownpatch(Version, SteamUser, SteamPass)
     ;Run depotdownloader
     Run, cmd.exe, %A_ScriptDir%\Assets\ThirdParty\depotdownloader-2.3.6,, procID
     WinWaitActive, % "ahk_pid" procID
-    SendEvent {Raw}dotnet DepotDownloader.dll -app 969990 -depot 969991 -manifest %ManifestID% -username %SteamUser% -password %SteamPass%
+    SendEvent {Raw}dotnet DepotDownloader.dll -app 969990 -depot 969991 -manifest %ManifestID% -username %SteamUser% -password "%SteamPass%"
     Send {Enter}
 
     ;loop and check until download is finished
