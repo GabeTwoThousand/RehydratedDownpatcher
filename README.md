@@ -21,13 +21,11 @@ The video also shows you how to preserve/transfer your steam controller mappings
 Note: To preserve steam controller mappings and steam FPS display, you need to add the .exe file in this new install to steam as a "non-steam game". You will also need to apply or create any custom controller mappings in steam big picture after adding it.  
   
 ## Compiling Instructions:  
-If you want to compile the script for yourself I've also left instructions below. Note that although I can zip the DOTNet installer in the release file, it's too large to be an individual file in the repo itself so you'll have to download it yourself if you want to compile youself.  
+If you want to compile the script for yourself I've also left instructions below.
 
 * 1 - Download and install AutoHotKey - https://www.autohotkey.com/  
-* 2 - Download the latest master branch of RehydratedDownpatcher and extract it to any desired location  
-* 3 - Download this file - https://download.visualstudio.microsoft.com/download/pr/56b00a71-686f-4f27-9ad1-9b30308688ed/1fa023326e475813783a240532c9f2c8/dotnet-sdk-3.1.302-win-x64.exe  
-* 4 - Place the downloaded file "dotnet-sdk-3.1.302-win-x64.exe" in the following directory inside the extracted project folder  [InsertPathToExtractedFolder]\RehydratedDownpatcher\Assets\ThirdParty\  
-* 5 - Right click RehydratedDownloader.ahk and select "Compile Script" (if this option is not there, then you didn't install AutoHotKey or unchecked the box to allow windows shell shortcuts/options)  
+* 2 - Clone/Download the latest master branch of RehydratedDownpatcher and extract it to any desired location  
+* 3 - Right click RehydratedDownloader.ahk and select "Compile Script" (if this option is not there, then you didn't install AutoHotKey or unchecked the box to allow windows shell shortcuts/options)  
   
 ### Reference Info for the manual use of DepotDownloader with Rehydrated
 Steam AppID: 969990  
